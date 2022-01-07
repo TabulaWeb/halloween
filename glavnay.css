@@ -1,0 +1,11 @@
+@import './style/fonts.css';
+@import './style/resset.css';
+@import './style/header.css';
+@import './style/nav.css';
+@import './style/container.css';
+
+@import './styleGlavnay/intro.css';
+@import './styleGlavnay/about.css';
+@import './styleGlavnay/histoty.css';
+
+@import './style/footer.css';

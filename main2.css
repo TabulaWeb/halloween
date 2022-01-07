@@ -1,0 +1,12 @@
+
+@import './style/fonts.css';
+@import './style/resset.css';
+@import './style/header.css';
+@import './style/nav.css';
+@import './style/container.css';
+
+@import './style2/intro.css';
+@import './style2/history.css';
+@import './style2/what.css';
+
+@import './style/footer.css';

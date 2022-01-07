@@ -1,0 +1,42 @@
+body {
+    background-color: #1c212b;
+}
+.intro {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(128,125,88);
+    background: linear-gradient(63deg, rgba(128,125,88,1) 53%, rgba(28,33,43,1) 77%);
+}
+.intro__inner {
+    display: flex;
+    padding: 100px 0 60px;
+}
+.intro__title {
+    color: #1c212b;
+    line-height: 1;
+    font-family: 'ApexMk3_cyr';
+    font-size: 60px;
+    max-width: 400px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+.intro__left {
+    width: 50%;
+}
+.intro__title span {
+    color: #1c212b;
+    font-size: 140px;
+    letter-spacing: 1px
+}
+.intro__text {
+    color: #1c212b;
+    font-family: 'fractal';
+    font-style: 16px;
+    max-width: 400px;
+    margin-top: 40px;
+}
+.intro__left {
+    margin-right: 40px;
+}

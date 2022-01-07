@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "fractal";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/fractal.otf");
+}
+
+@font-face {
+    font-family: "ApexMk3_cyr";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/ApexMk3_cyr.ttf");
+}
+
+@font-face {
+    font-family: "ApexMk3_cyr";
+    font-style: normal;
+    font-weight: 200;
+    src: url("../fonts/ApexMk3-ExtraLight.otf");
+}
+
+@font-face {
+    font-family: "ApexMk3_cyr";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/ApexMk3-Medium.otf");
+}

@@ -1,0 +1,22 @@
+.header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    padding-top: 25px;
+    font-family: 'fractal';
+}
+.header__intro {
+    position: relative;
+}
+.header__logo {
+    font-size: 30px;
+    color: #b8b17a;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    font-family: 'fractal';
+    
+}

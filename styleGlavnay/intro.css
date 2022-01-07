@@ -1,0 +1,34 @@
+.intro {
+    background-image: url('../img/clearing-storm.png');
+    background-color: #1c212b;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 560px;
+}
+.intro__inner {
+    padding-left: 100px;
+}
+.intro__subtitle {
+    text-transform: uppercase;
+    color: #d4d3cc;
+    font-size: 24px;
+    font-family: 'ApexMk3_cyr';
+    margin-top: 75px;
+}
+.intri__title {
+    text-transform: uppercase;
+    color: #a29d6f;
+    font-size: 56px;
+    font-family: 'ApexMk3_cyr';
+    margin-top: 10px;
+    max-width: 600px;
+    line-height: 1;
+}
+.intro__text {
+    color: #d4d3cc;
+    font-size: 22px;
+    font-family: 'fractal';
+    max-width: 370px;
+    margin-top: 80px;
+}

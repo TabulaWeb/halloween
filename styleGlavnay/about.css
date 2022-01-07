@@ -1,0 +1,37 @@
+.about {
+    background-color: #a19c78;
+    letter-spacing: 1;
+    line-height: 1;
+    position: relative;
+    padding: 40px 0 70px;
+}
+.about__title {
+    font-size: 48px;
+    text-transform: uppercase;
+    color: #1c212b;
+    font-family: 'ApexMk3_cyr';
+    max-width: 580px;
+}
+.about__date {
+    font-size: 174px;
+    color: #1c212b;
+    font-family: 'fractal';
+}
+.about__text {
+    font-size: 22px;
+    color: #1c212b;
+    font-family: 'fractal';
+    max-width: 550px;
+}
+.swiper-slide {
+    display: flex;
+}
+.swiper__right {
+    margin-top: 80px;
+}
+.swiper__text-right {
+    font-size: 36px;
+    color: #1b212b;
+    text-transform: uppercase;
+    font-family: 'ApexMk3_cyr';
+}

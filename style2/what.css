@@ -1,0 +1,55 @@
+.what {
+    background-image: url('../img/clearing-storm.png');
+    background-color: #1c212b;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.what__inner {
+    background-image: url('../img/Слой\ 8.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    padding-top: 60px;
+}
+.what__photo {
+    position: absolute;
+    left: 30%;
+    bottom: 0;
+    z-index: 1;
+    
+}
+.what__content {
+    height: 590px;
+}
+.what__title {
+    font-size: 36px;
+    color: #1c212b;
+    text-transform: uppercase;
+    font-family: 'ApexMk3_cyr';
+    max-width: 340px;
+    line-height: 1;
+    padding-left: 70px;
+}
+.what__content {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #d4d3cc;
+    font-family: 'fractal';
+    padding: 0 70px;
+}
+.what__content span {
+    font-size: 48px;
+}
+.what__left {
+    max-width: 300px;
+    z-index: 5;
+}
+.what__right {
+    max-width: 300px;
+    z-index: 5;
+}

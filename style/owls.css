@@ -1,0 +1,39 @@
+.owls {
+    background-color: #a29d6f;
+    padding-bottom: 70px;
+}
+.owls__inner {
+    display: flex;
+    padding-top: 100px;
+}
+.owls__content {
+    color: #1c212b;
+    margin-left: 30px;
+}
+.owls__title {
+    font-family: 'ApexMk3_cyr';
+    font-size: 48px;
+    text-transform: uppercase;
+
+    display: flex;
+    align-items: center;
+
+    max-width: 300px;
+    line-height: 1;
+    letter-spacing: 4px;
+}
+.owls__title span {
+    font-size: 90px;
+}
+.owls__title p span {
+    font-size: 38px;
+    letter-spacing: 1px;
+}
+.owls__text {
+    font-size: 16px;
+    font-family: 'fractal';
+    margin-top: 15px;
+}
+.owls__text p {
+    margin-top: 25px;
+}

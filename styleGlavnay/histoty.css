@@ -1,0 +1,52 @@
+.histoty {
+    background-image: url('../img/shtorm.png');
+    background-color: #1c212b;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 560px;
+    padding-top: 50px;
+}
+.histoty__inner {
+    display: flex;
+    justify-content: space-between;
+}
+.histoty__left {
+    max-width: 480px;
+    position: relative;
+}
+.histoty__right {
+    max-width: 480px;
+    position: relative;
+}
+.histoty__title {
+    font-size: 34px;
+    color: #afa874;
+    font-family: 'ApexMk3_cyr';
+    text-transform: uppercase;
+}
+.histoty__text {
+    font-size: 24px;
+    color: #d7d7d6;
+    font-family: 'fractal';
+}
+.histoty__okr {
+    width: 80px;
+    height: 80px;
+    background-color:#afa874;
+    opacity: .3;
+    border-radius: 50%;
+    position: absolute;
+    left: -30px;
+    top: 0;
+    z-index: 5;
+}
+.swiper {
+    margin: 0 150px !important;
+}
+
+@media (max-width: 1360px) {
+    .swiper {
+        margin: 0 40px !important;
+    }
+}

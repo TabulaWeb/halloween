@@ -1,0 +1,49 @@
+.history {
+    background-color: #a29d6f;
+    padding-top: 15px;
+    position: relative;
+}
+.history__title {
+    font-family: 'ApexMk3_cyr';
+    font-size: 36px;
+    color: #1c212b;
+    line-height: 1;
+    letter-spacing: 3px;
+    max-width: 500px;
+}
+.history__subtitle {
+    font-family: 'fractal';
+    font-size: 30px;
+    color: #1c212b;
+    margin-top: 15px;
+}
+.history__content {
+    display: flex;
+    margin: 20px 0 40px;
+}
+.history__text {
+    display: flex;
+    font-size: 18px;
+    color: #1c212b;
+    font-family: 'fractal';
+    max-width: 900px;
+    margin-left: 40px;
+}
+.history__text p:first-child {
+    margin-right: 40px;
+}
+.swiper {
+    margin: 0 150px !important;
+}
+
+@media (max-width: 1360px) {
+    .swiper {
+        margin: 0 40px !important;
+    }
+}
+
+@media (max-width: 1100px) {
+    .history__text {
+        font-size: 14px;
+    }
+}

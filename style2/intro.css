@@ -1,0 +1,35 @@
+.intro {
+    background-color: #1c212b;
+    position: relative;
+    min-height: 650px;
+}
+.intro__inner {
+
+}
+.intro__img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+.intro__title {
+    font-family: 'mr_ApexMk3';
+    font-size: 55px;
+    color: #b8b17a;
+    max-width: 450px;
+    line-height: 1;
+    padding-top: 200px;
+    margin: 0 100px;
+}
+.intro__text {
+    font-size: 16px;
+    font-family: 'fractal';
+    color: #e4e2d7;
+    max-width: 360px;
+    margin: 40px 100px;
+    position: relative;
+    z-index: 5;
+}
+.intro__text span {
+    font-size: 36px;
+}

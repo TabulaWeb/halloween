@@ -1,0 +1,9 @@
+@import './style/fonts.css';
+@import './style/resset.css';
+@import './style/header.css';
+@import './style/nav.css';
+@import './style/container.css';
+
+@import './styleContacts/intro.css';
+
+@import './style/footer.css';
